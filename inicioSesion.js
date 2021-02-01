@@ -1,0 +1,5 @@
+ingresoNombre ()
+ingresoEmail ()
+ingresoEdad ()
+confirmacionDatos ()
+atencionSolicitud ()
