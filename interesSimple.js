@@ -11,3 +11,8 @@ if (solicitudCredito == "personal" | "automotriz" | "hipotecario"){
  
  alert("El monto total a pagar sera de: "+valorfinaldelprestamo);}
 }
+
+//Complemento para la asignacion de strings
+let arrayCredito = [valordelprestamo,valordelinteres,tiempodelprestamo]
+
+alert ("Los parametros de su credito son:" +arrayCredito.toString())
